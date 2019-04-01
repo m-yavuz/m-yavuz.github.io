@@ -42,8 +42,10 @@ career-profile:
     title: Career Profile
     summary: |
       Recently interest in serverless and microspecies architected over AWS technologies.
+      
       In last three years I have worked on intelligent engine which classifies and process scanned images of identity documents and passports, extracting data and evaluating the document authenticity.
       I was responsible of developing and following three large projects (related to banks).
+      
       I’m looking forward for a challenging position, where I can communicate with professional people and improve myself as a developer.
 
 
@@ -170,23 +172,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C# & .Net Framework
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Sql Server
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: .Net Core
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: DevOps Techniques (CI\CD)
         level: 60%
 
+      - name: Amazon Web Services (AWS)
+        level: 30%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Managed with <i class="fas fa-heart"></i> by Muhammet Yavuz
