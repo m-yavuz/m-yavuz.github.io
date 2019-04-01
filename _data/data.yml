@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Muhammet Yavuz
-    tagline: Full Stack Developer
+    tagline: Full Stack Developer / Software Architect 
     avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -69,35 +69,27 @@ education:
       details: |
         
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead Software Developer
+      time: 2018 - Present
+      company: GBG Plc, Mersin/Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As technical team lead manageing day to day tasks
+        the team is working on main project which going to be single platform for company's customer
+        the technologies are using:
 
-          - Bullet point
-          - Bullet point
+          - Microservices Architecture
+          - Amazon Web Services (AWS)
+          - ASP.Net Core
+          - DevOps/Docker
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2017 - 2018
+      company: GBG Plc, Mersin/Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        As software enginner working on SDK library which is working to extract information form image
+        The technologies ware using:
+          - .Net framework (C#)
+          - WCF
 
     - role: UI Developer
       time: 2012 - 2014
