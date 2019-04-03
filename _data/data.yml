@@ -133,13 +133,13 @@ publications:
         authors: IBM
         conference: March 2018 – Present
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Developer to Architect"
+        authors: Pluralsight
+        conference: "October 2017 – Present"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Docker Images and Containers for ASP.NET Core
+        authors: Pluralsight
+        conference: "2018 – Present"
 
 skills:
     title: Skills &amp; Proficiency
