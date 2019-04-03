@@ -124,23 +124,22 @@ projects:
 
 
 publications:
-    title: Certifications / Courses
+    title: Certifications
     intro: |
         sdfsdf
-      
 
     papers:
       - title: Docker Essentials: Extend Your Apps With Containers
         authors: IBM
         conference: March 2018 – Present
 
-      - title: "Developer to Architect"
+      - title: Developer to Architect
         authors: Pluralsight
-        conference: "October 2017 – Present"
+        conference: October 2017 – Present
 
       - title: Docker Images and Containers for ASP.NET Core
         authors: Pluralsight
-        conference: "2018 – Present"
+        conference: 2018 – Present
 
 skills:
     title: Skills &amp; Proficiency
