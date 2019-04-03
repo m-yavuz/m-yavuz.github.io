@@ -54,14 +54,6 @@ education:
       university: SVU
       time: 2007 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: Computer Engineering Institute
       university: Aleppo University
@@ -87,23 +79,31 @@ experiences:
       company: GBG Plc, Mersin/Turkey
       details: |
         As software enginner working on SDK library which is working to extract information form image
-        The technologies ware using:
+        The technologies have been used:
           - .Net framework (C#)
           - WCF
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Co-founder
+      time: 2015 - 2017
+      company: Swazer, Bursa/Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The main product was "Smares" which allow restaurant's clients to place thier orders form thier tables (no need to login)
 
-          - Bullet point
-          - Bullet point
-
+        The technologies have been used:
+          - IoT technologies (Mqtt, WebSocket and so)
+          - Backend (.Net Framework API)
+          
+    - role: Senior Software Engineer
+      time: 2012 - 2015
+      company: IDScan Plc, Mersin/Turkey
+      details: |
+        As software engineer working on development SDKs, Engines, Web Application and distributed systems
+        
+        The technologies have been used:
+          - .Net framework (C#)
+          - WCF
+          - Windows Service
+          - SQL Server
 projects:
     title: Projects
     intro: >
