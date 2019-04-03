@@ -92,6 +92,7 @@ experiences:
         The main technologies have been used:
           - IoT technologies (Mqtt, WebSocket and so)
           - Backend (.Net Framework API)
+          - Domain Driven Design
           
     - role: Senior Software Engineer
       time: 2012 - 2015
@@ -107,33 +108,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Since most of project for enterprise and others under construction, so would take about architecture and technologies 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Backend (Domain Driven Design)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "I developed backend for mobile application by (C#) .Net / Entity Framework"
+        
+      - title: ERP (N-Tier architecture)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "I was a developer in team work on ERP project has many subsystem (Inventory, Accounting, Production, shipment)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Engine/SDK/Library (Pipline pattern)
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 publications:
-    title: Publications
+    title: Certifications / Courses
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
