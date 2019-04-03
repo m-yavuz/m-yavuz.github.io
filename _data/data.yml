@@ -79,17 +79,17 @@ experiences:
       company: GBG Plc, Mersin/Turkey
       details: |
         As software enginner working on SDK library which is working to extract information form image
-        The technologies have been used:
+        The main technologies have been used:
           - .Net framework (C#)
           - WCF
 
-    - role: Co-founder
+    - role: Co-Founder / Software Developer
       time: 2015 - 2017
       company: Swazer, Bursa/Turkey
       details: |
         The main product was "Smares" which allow restaurant's clients to place thier orders form thier tables (no need to login)
 
-        The technologies have been used:
+        The main technologies have been used:
           - IoT technologies (Mqtt, WebSocket and so)
           - Backend (.Net Framework API)
           
@@ -99,7 +99,7 @@ experiences:
       details: |
         As software engineer working on development SDKs, Engines, Web Application and distributed systems
         
-        The technologies have been used:
+        The main technologies have been used:
           - .Net framework (C#)
           - WCF
           - Windows Service
