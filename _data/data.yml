@@ -3,42 +3,37 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Muhammet
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    name: Muhammet Yavuz
+    tagline: Full Stack Developer / Software Architect 
+    avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: m.yavuz.me@gmail.com
+    phone: +90 538 0636889
+    website: github.com/m-yavuz #do not add http://
+    linkedin: m-yavuz
+    github: m-yavuz
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
         level: Professional
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Swimming
         link:
 
       - item: Cooking
@@ -47,154 +42,124 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Recently interest in serverless and microspecies architected over AWS technologies.
+      
+      In last three years I have worked on intelligent engine which classifies and process scanned images of identity documents and passports, extracting data and evaluating the document authenticity.
+      I was responsible of developing and following three large projects (related to banks).
+      
+      I’m looking forward for a challenging position, where I can communicate with professional people and improve myself as a developer.
 
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Information Technology
+      university: SVU
+      time: 2007 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Computer Engineering Institute
+      university: Aleppo University
+      time: 2007 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Lead Software Developer
+      time: 2018 - Present
+      company: GBG Plc, Mersin/Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As technical team lead manageing day to day tasks
+        the team is working on main project which going to be single platform for company's customer
+        the technologies are using:
 
-          - Bullet point
-          - Bullet point
+          - Microservices Architecture
+          - Amazon Web Services (AWS)
+          - ASP.Net Core
+          - DevOps/Docker
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2017 - 2018
+      company: GBG Plc, Mersin/Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As software enginner working on SDK library which is working to extract information form image
+        The main technologies have been used:
+          - .Net framework (C#)
+          - WCF
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Co-Founder / Software Developer
+      time: 2015 - 2017
+      company: Swazer, Bursa/Turkey
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        The main product was "Smares" which allow restaurant's clients to place thier orders form thier tables (no need to login)
 
-          - Bullet point
-          - Bullet point
-
+        The main technologies have been used:
+          - IoT technologies (Mqtt, WebSocket and so)
+          - Backend (.Net Framework API)
+          - Domain Driven Design
+          
+    - role: Senior Software Engineer
+      time: 2012 - 2015
+      company: IDScan Plc, Mersin/Turkey
+      details: |
+        As software engineer working on development SDKs, Engines, Web Application and distributed systems
+        
+        The main technologies have been used:
+          - .Net framework (C#)
+          - WCF
+          - Windows Service
+          - SQL Server
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Since most of project for enterprise and others under construction, so would take about architecture and technologies 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Backend (Domain Driven Design)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "I developed backend for mobile application by (C#) .Net / Entity Framework"
+        
+      - title: ERP (N-Tier architecture)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "I was a developer in team work on ERP project has many subsystem (Inventory, Accounting, Production, shipment)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Engine/SDK/Library (Pipline pattern)
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 publications:
-    title: Publications
+    title: Certifications / Courses
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        Latest courses i have check it out, some of them have certificate
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Docker Essentials Extend Your Apps With Containers
+        authors: IBM
+        conference: March 2018 – Present
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Developer to Architect
+        authors: Pluralsight
+        conference: October 2017 – Present
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Docker Images and Containers for ASP.NET Core
+        authors: Pluralsight
+        conference: 2018 – Present
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C# & .Net Framework
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Sql Server
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: .Net Core
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: DevOps Techniques (CI\CD)
         level: 60%
 
+      - name: Amazon Web Services (AWS)
+        level: 50%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Managed with <i class="fas fa-heart"></i> by Muhammet Yavuz
