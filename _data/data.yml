@@ -146,20 +146,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# & .Net Framework
+      - name: C# | .Net Core
         level: 90%
+        
+      - name: Amazon Web Services (AWS)
+        level: 80%
 
       - name: Sql Server
-        level: 90%
-
-      - name: .Net Core
-        level: 75%
+        level: 80%
 
       - name: DevOps Techniques (CI\CD)
         level: 60%
 
-      - name: Amazon Web Services (AWS)
-        level: 50%
+
 
 footer: >
     Managed with <i class="fas fa-heart"></i> by Muhammet Yavuz
