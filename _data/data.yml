@@ -42,12 +42,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Recently interest in serverless and microspecies architected over AWS technologies.
+      Recently interest in serverless and microspecies architected via AWS technologies.
       
+           
       In last three years I have worked on intelligent engine which classifies and process scanned images of identity documents and passports, extracting data and evaluating the document authenticity.
       I was responsible of developing and following three large projects (related to banks).
       
-      I’m looking forward for a challenging position, where I can communicate with professional people and improve myself as a developer.
+      .Net Core (C#)
+      AWS (EC2|S3|ECS|ECR|Lambda|SQS|SNS)
+      SQLServer/MySQL
+     
 
 
 education:
@@ -152,12 +156,14 @@ skills:
       - name: Amazon Web Services (AWS)
         level: 80%
 
-      - name: Sql Server
+      - name: Sql Server / MySql
         level: 80%
 
       - name: DevOps Techniques (CI\CD)
         level: 60%
 
+      - name: NodeJs (Typescript)
+        level: 40%
 
 
 footer: >
