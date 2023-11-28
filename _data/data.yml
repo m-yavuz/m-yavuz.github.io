@@ -66,8 +66,19 @@ education:
       details: |
         
 experiences:
+    - role: Software Developer
+      time: 2021 - 2022
+      company: X-Team · Full-time, Australia as Remotely
+      details: |
+       Worked on OFX project: migrating authentication server from On-premise to SaaS (OKTA).
+            Tech-Stack:
+            - OKTA (authentication server)
+            - Pulumi (IaC)
+            - AWS (Lambda, ECS, ECR, S3 and other core services)
+            - .Net / Typescript (Backend)
+          
     - role: Lead Software Developer
-      time: 2018 - Present
+      time: 2018 - 2021
       company: GBG Plc, Mersin/Turkey
       details: |
         As technical team lead manageing day to day tasks
