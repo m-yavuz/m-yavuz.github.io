@@ -47,6 +47,8 @@ career-profile:
            
       In last three years I have worked on intelligent engine which classifies and process scanned images of identity documents and passports, extracting data and evaluating the document authenticity.
       I was responsible of developing and following three large projects (related to banks).
+
+      Stack:
       
       .Net Core (C#)
       
@@ -55,6 +57,10 @@ career-profile:
       Azure (CosmosDb|Azure Function|Service Bus|Storge Account)
       
       SQLServer/MySQL
+
+      Tools:
+      
+      Jira/ DevOps/ Pulumi/ 
 
      
 
