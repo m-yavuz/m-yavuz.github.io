@@ -36,7 +36,7 @@ sidebar:
       - item: Swimming
         link:
 
-      - item: Cooking
+      - item: Traveling 
         link:
 
 career-profile:
@@ -67,14 +67,13 @@ education:
         
 experiences:
     - role: Software Developer
-      time: 2021 - 2022
-      company: X-Team · Full-time, Australia as Remotely
+      time: 2022 - Present
+      company: Appsfactory · Full-time, Cologne, North Rhine-Westphalia, Germany 
       details: |
-       Worked on OFX project: migrating authentication server from On-premise to SaaS (OKTA).
             Tech-Stack:
-            - OKTA (authentication server)
+            - Vue (basics)
             - Pulumi (IaC)
-            - AWS (Lambda, ECS, ECR, S3 and other core services)
+            - Azure Could
             - .Net / Typescript (Backend)
           
     - role: Lead Software Developer
