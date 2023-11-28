@@ -170,8 +170,11 @@ skills:
         level: 80%
 
       - name: DevOps Techniques (CI\CD)
-        level: 60%
+        level: 75%
 
+      - name: Azure Could
+        level: 60%
+        
       - name: NodeJs (Typescript)
         level: 40%
 
